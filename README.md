@@ -1,2 +1,3 @@
-# Connect4
-[CIS110 FINAL PROJECT] I made this for my first coding class ever so there's some nostalgia here :')
+HOW TO RUN
+==========
+Just download all the files and run the TitleScreen class! You can play with 1 player or 2 players :)
